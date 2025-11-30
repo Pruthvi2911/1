@@ -4,6 +4,7 @@ hi this is pruthvi
 
 ![GitHub Stats](https://github-readme-stats-git-master-jokescode.vercel.app/api?username=pruthvi2911&show_icons=true&theme=vue-dark)
 
-
--[loops.py](loops.py)
--[sort.java](sort.java)
+##python
+- [loops.py](loops.py)
+##java
+- [sort.java](sort.java)
