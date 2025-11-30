@@ -1,6 +1,5 @@
-hi this is pruthvi
-![python](https://img.shields.io/badge/python-3.21-blue?style=for-the-badge&logo=python&label=python&color=blue)
+hi this is pruthvi  
 
-	![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat
-)
+![Python](https://img.shields.io/badge/Python-3.21-blue?style=for-the-badge&logo=python)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pruthvi2911&show_icons=true&theme=vue-dark)
